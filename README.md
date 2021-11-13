@@ -2,12 +2,10 @@
 
 Patch Growtopia
 
-
-
 #ID
-Patch ini, Memungkinkan Anda untuk membuka banyak Growtopia.exe secara bersamaan.
+> Patch ini, Memungkinkan Anda untuk membuka banyak Growtopia.exe secara bersamaan.
 --------------------------------------------------------------------------------------------------
 #EN
-this Patch, Allow you to open many Growtopia.exe Sametime.
+> This Patch, Allow you to open many Growtopia.exe Sametime.
 
 #MakasihAJG
